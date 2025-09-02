@@ -4,7 +4,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Framework](https://img.shields.io/badge/UI-PyQt6-brightgreen.svg)](https://www.riverbankcomputing.com/software/pyqt/)
 
-一个安全、跨平台的密码管理器，使用 Python 和 PyQt6 构建。它提供了图形用户界面（GUI）、命令行界面（CLI）以及与浏览器集成的能力，旨在提供一个安全、便捷的密码管理解决方案。
+一个安全、跨平台的密码管理器，使用 Python 和 PyQt6 构建。它提供了图形用户界面（GUI）以及与浏览器集成的能力(未完成)，旨在提供一个安全、便捷的密码管理解决方案。
 
 ## ✨ 主要特性
 
