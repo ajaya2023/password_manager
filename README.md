@@ -18,7 +18,7 @@ A secure, cross-platform password manager built with Python and PyQt6. It provid
   - 密码数据储存在本地。
 - **强密码生成器**: 内置工具，可生成可定制的、高强度的随机密码。
 - **快速搜索**: 轻松搜索和检索您保存的任何凭据。
-- 
+
 - **Graphical User Interface (GUI)**: An intuitive and easy-to-use desktop application built with PyQt6.
 - **Safety First**:
 - Encrypt all stored credentials with a master password.
