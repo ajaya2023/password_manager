@@ -54,17 +54,11 @@ Click to use
 欢迎您为这个项目做出贡献！请遵循以下步骤：
 You are welcome to contribute to this project! Please follow these steps:
 
-1.  **Fork** 本仓库。
-2.  创建您的新功能分支 (`git checkout -b feature/AmazingFeature`)。
-3.  提交您的更改 (`git commit -m 'Add some AmazingFeature'`)。
-4.  将您的分支推送到远程仓库 (`git push origin feature/AmazingFeature`)。
-5.  创建一个 **Pull Request**。
-   
-1. **Fork** this repository.
-2. Create your new feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push your branch to the remote repository (`git push origin feature/AmazingFeature`).
-5. Create a Pull Request.
+1.  **Fork** 本仓库。**Fork** this repository.
+2.  创建您的新功能分支 (`git checkout -b feature/AmazingFeature`)。Create your new feature branch (`git checkout -b feature/AmazingFeature`).
+3.  提交您的更改 (`git commit -m 'Add some AmazingFeature'`)。Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4.  将您的分支推送到远程仓库 (`git push origin feature/AmazingFeature`)。Push your branch to the remote repository (`git push origin feature/AmazingFeature`).
+5.  创建一个 **Pull Request**。 Create a Pull Request.
 
 ## 📄 许可证  License
 本项目采用 [MIT 许可证](https://opensource.org/licenses/MIT)。
