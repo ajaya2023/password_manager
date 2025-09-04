@@ -1,5 +1,5 @@
-# Python 密码管理器
-# A Password Manager Base on Python
+# Python 密码管理器 A Password Manager Base on Python
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Framework](https://img.shields.io/badge/UI-PyQt6-brightgreen.svg)](https://www.riverbankcomputing.com/software/pyqt/)
@@ -8,8 +8,8 @@
 A secure, cross-platform password manager built with Python and PyQt6. It provides a graphical user interface (GUI) and the ability to integrate with browsers (unfinished), aiming to provide a secure and convenient password management solution.
 
 
-## ✨ 主要特性
-## ✨ Key Features
+## ✨ 主要特性  Key Features
+
 
 - **图形用户界面 (GUI)**: 一个使用 PyQt6 构建的、直观易用的桌面应用程序。
 - **安全第一**:
@@ -27,13 +27,12 @@ A secure, cross-platform password manager built with Python and PyQt6. It provid
 - **Strong Password Generator**: Built-in tool to generate customizable, strong, random passwords.
 - **Quick Search**: Easily search and retrieve any of your saved credentials.
 
-## 🚀 使用说明
-## 🚀 Instructions
+## 🚀 使用说明  Instructions
+ 
 点击即用
 Click to use
 
-## 📂 项目结构
-## 📂 Project Structure
+## 📂 项目结构 Project Structure
 
 ```
 .
@@ -49,8 +48,8 @@ Click to use
 └── README.md            
 ```
 
-## 🤝 贡献代码
-## 🤝 Contributing Code
+## 🤝 贡献代码 Contributing Code
+
 
 欢迎您为这个项目做出贡献！请遵循以下步骤：
 You are welcome to contribute to this project! Please follow these steps:
@@ -66,8 +65,7 @@ You are welcome to contribute to this project! Please follow these steps:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
 4. Push your branch to the remote repository (`git push origin feature/AmazingFeature`).
 5. Create a Pull Request.
-## 📄 许可证
-## 📄 License
 
+## 📄 许可证  License
 本项目采用 [MIT 许可证](https://opensource.org/licenses/MIT)。
 This project uses the [MIT License](https://opensource.org/licenses/MIT).
