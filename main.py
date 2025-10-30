@@ -1,7 +1,4 @@
-#!/usr/bin/env python3
-"""
-密码管理器主程序
-"""
+
 import sys
 import os
 import argparse
